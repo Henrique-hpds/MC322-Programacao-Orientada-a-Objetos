@@ -1,10 +1,1 @@
-# MC322
-**Github da matéria de poo da Unicamp**
-
-<hr>
-
-Henrique Parede de Souza
-<br>
-ra260497
-<br>
-Turma A Esther
+# MC322 - Programação Orientada a Objetos (2023/1)
