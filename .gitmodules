@@ -1,0 +1,3 @@
+[submodule "MC322_Xadrez"]
+	path = MC322_Xadrez
+	url = git@github.com:Henrique-hpds/MC322_Xadrez.git
